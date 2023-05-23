@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-   <p><a href="https://blog.naver.com/seoul8338/223110209991" target="_blank"><img src="https://img.shields.io/badge/MY BLOG-ED0086?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>   
+   <p><a href="https://blog.naver.com/seoul8338" target="_blank"><img src="https://img.shields.io/badge/MY BLOG-ED0086?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>   
      
 
    #
@@ -23,6 +23,7 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">
       <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c++&logoColor=white">
       <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
+      <img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=html&logoColor=white">
 
    </p>
    
