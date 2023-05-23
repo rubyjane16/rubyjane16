@@ -21,11 +21,9 @@ Here are some ideas to get you started:
    ### ✍ stack (java c++ mysql html)
    <p>
       <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">
-      <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
       <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=sqlite&logoColor=white">
-      <br>
-      <img src="https://img.shields.io/badge/android-3DDC84?style=flat&logo=android&logoColor=white">
-      <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat&logo=androidstudio&logoColor=white">
+      <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
+
    </p>
    
 
