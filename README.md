@@ -18,7 +18,7 @@
    -->
 
 
-      <p><a href="https://blog.naver.com/seoul8338" target="_blank"><img src="https://img.shields.io/badge/Dev BLOG-03C75A?style=flat&logo=nginx&logoColor=white"/></a></p>   
+<p><a href="https://blog.naver.com/seoul8338" target="_blank"><img src="https://img.shields.io/badge/Dev BLOG-03C75A?style=flat&logo=nginx&logoColor=white"/></a></p>   
 
 
    #
