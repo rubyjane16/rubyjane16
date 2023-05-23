@@ -23,13 +23,13 @@ Here are some ideas to get you started:
    ### Tech stack 
    <p>
       <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=JAVA&logoColor=white">
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white">
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white">
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML&logoColor=white">
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
    
    <br>
-    <img src="https://img.shields.io/badge/spring-E34F26?style=flat&logo=spring&logoColor=white">
-    <img src="https://img.shields.io/badge/linux-E34F26?style=flat&logo=linux&logoColor=white">
+    <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white">
 
    </p>
    
