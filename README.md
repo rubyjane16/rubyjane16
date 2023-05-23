@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-   <p><a href="https://blog.naver.com/seoul8338" target="_blank"><img src="https://img.shields.io/badge/MY BLOG-ED0086?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>   
+   <p><a href="https://blog.naver.com/seoul8338" target="_blank"><img src="https://img.shields.io/badge/Dev BLOG-ED0086?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>   
      
 
    #
@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
    </p>
    
+   ![jubyjane16's github stats](https://github-readme-stats.vercel.app/api?username=rubyjane16&show_icons=true)
 
 
 </div>
