@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### SNS
    <p><a href="https://blog.naver.com/seoul8338" target="_blank"><img src="https://img.shields.io/badge/Dev BLOG-ED0086?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>   
      
 
    #
-   ### ✍ stack (java c++ mysql html)
+   ### Tech stack 
    <p>
       <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">
       <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c++&logoColor=white">
