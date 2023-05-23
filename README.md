@@ -22,10 +22,10 @@ Here are some ideas to get you started:
    #
    ### Tech stack 
    <p>
-      <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">
-      <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c++&logoColor=white">
-      <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
-      <img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=html&logoColor=white">
+      <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=JAVA&logoColor=white">
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML&logoColor=white">
    
    <br>
     <img src="https://img.shields.io/badge/spring-E34F26?style=flat&logo=spring&logoColor=white">
