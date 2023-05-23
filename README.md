@@ -21,7 +21,7 @@ Here are some ideas to get you started:
    ### ✍ stack (java c++ mysql html)
    <p>
       <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">
-      <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=sqlite&logoColor=white">
+      <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c++&logoColor=white">
       <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
 
    </p>
