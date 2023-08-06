@@ -36,9 +36,7 @@
 
    </p>
    
-   #
-   ### Stats
-   ![jubyjane16's github stats](https://github-readme-stats.vercel.app/api?username=rubyjane16&show_icons=true)
+ 
 
 
 </div>
